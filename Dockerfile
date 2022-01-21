@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/ingress-nginx/controller
+FROM k8s.gcr.io/etcd:3.3.15-0
